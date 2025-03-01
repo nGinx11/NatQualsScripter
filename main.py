@@ -1,4 +1,5 @@
-import colorama
+from colorama import init, Fore
+import pypdf
 import os
 
 
